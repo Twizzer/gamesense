@@ -5,7 +5,7 @@ A requested theme based on gamesense's design.
 - Powercord: `git clone https://github.com/Twizzer/gamesense/`
 
 # Preview
-<img src="https://i.imgur.com/WgEeYMa.png"/>
+<img src="https://i.imgur.com/e5NgRuX.png"/>
 
 # Support 
 - [Support Server](https://discord.gg/pKx8m6Z)
